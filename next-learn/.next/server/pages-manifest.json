@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html",
+  "/add": "pages/add.html",
+  "/api/hello": "pages/api/hello.js",
+  "/api/vocapi": "pages/api/vocapi.js",
+  "/listes/[liste]": "pages/listes/[liste].js",
+  "/btc": "pages/btc.js",
+  "/isr": "pages/isr.js",
+  "/": "pages/index.js",
+  "/listes": "pages/listes.js"
+}
